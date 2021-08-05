@@ -15,4 +15,4 @@ While project might seem very basic, I believe a lot could come from it. Continu
 
 ## License
 
-"Eye Movement Ecercise" is free and open source available for anyone to use for any project. 
+"Eye Movement Ecercise" is free and open source available for anyone to use for any project. For more information, please view the LICENSE file. 
